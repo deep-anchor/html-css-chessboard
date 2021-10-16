@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+main {
+    width: 800px;
+    height: 800px;
+    border: 1px solid #000
+}
+
+.row{
+    width:800px;
+    height: 100px;
+    display:flex;
+    
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+   padding-block: 1px;
+   padding-inline: 1px;
+}
+
+.black{
+    background-color: black;
+}
